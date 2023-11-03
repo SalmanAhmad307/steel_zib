@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004898176914",
+    "project_id": "steelshop-f385e",
+    "storage_bucket": "steelshop-f385e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004898176914:android:2e99bb9a73a54522aefb4b",
+        "android_client_info": {
+          "package_name": "com.example.steel_zib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYqL4FM4ozbLQF7wDNgFP7g-B3lyeDCJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
